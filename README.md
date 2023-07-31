@@ -1,4 +1,4 @@
-# Jarvis-AI-using-python3
+# Jarvis-AI
 
 # Modules requires:
             import pyttsx3  #pip install pyttsx3
@@ -33,7 +33,6 @@ Say "Help" or "tell me your features" , it will show all it's features
             it can change his/her voice from male to female and vice-versa
             And yes  more thing to come...
             
-# If you like it leave a Star * on this Repo
 
 ![image](https://user-images.githubusercontent.com/11313549/83199718-64016700-a15f-11ea-8d7e-9b04280841f9.png)
 
